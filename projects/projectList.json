@@ -1,6 +1,7 @@
 {
   "projects": [
-    "https://raw.githubusercontent.com/gundamzhou863/portfolio_data/main/projects/medicinery/medicinery.json"
+    "https://raw.githubusercontent.com/gundamzhou863/portfolio_data/main/projects/medicinery/medicinery.json",
+    "https://raw.githubusercontent.com/gundamzhou863/portfolio_data/main/projects/sfml-graphic-calculator/sfml-graphic-calculator.json"
   ],
-  "size": 1
+  "size": 2
 }
